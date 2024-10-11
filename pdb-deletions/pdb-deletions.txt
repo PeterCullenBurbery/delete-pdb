@@ -1,0 +1,23 @@
+Enter the names of the PDBs to delete, separated by spaces:
+recycle_bin_test_001 text_0_1_manager bible hrpdb clothes_database_001
+Closing PDB: recycle_bin_test_001
+Unplugging PDB: recycle_bin_test_001
+Dropping PDB: recycle_bin_test_001
+Successfully deleted PDB: recycle_bin_test_001
+Closing PDB: text_0_1_manager
+Unplugging PDB: text_0_1_manager
+Dropping PDB: text_0_1_manager
+Successfully deleted PDB: text_0_1_manager
+Closing PDB: bible
+Unplugging PDB: bible
+Dropping PDB: bible
+Successfully deleted PDB: bible
+Closing PDB: hrpdb
+Unplugging PDB: hrpdb
+Dropping PDB: hrpdb
+Successfully deleted PDB: hrpdb
+Closing PDB: clothes_database_001
+Unplugging PDB: clothes_database_001
+Dropping PDB: clothes_database_001
+Successfully deleted PDB: clothes_database_001
+PDB(s) deletion process completed.
