@@ -1,0 +1,7 @@
+Enter the names of the PDBs to delete, separated by spaces:
+Zero_To_Mastery
+Closing PDB: Zero_To_Mastery
+Unplugging PDB: Zero_To_Mastery
+Dropping PDB: Zero_To_Mastery
+Successfully deleted PDB: Zero_To_Mastery
+PDB(s) deletion process completed.
